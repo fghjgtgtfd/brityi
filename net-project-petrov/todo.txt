@@ -1,0 +1,2 @@
+1|0|Prepare network project defense
+0|1|Download template files
